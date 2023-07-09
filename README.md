@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Catalyst Website**
 
-- 👨‍💻 All of my projects are available at [assemzereg.netlify.app](assemzereg.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://assemzereg.netlify.app" target="blank">assemzereg.netlify.app
 
 - 📫 How to reach me **assem.zereg0@gmail.com**
 - I worked on multiple projects like:
