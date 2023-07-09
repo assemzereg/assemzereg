@@ -11,7 +11,7 @@
   + ***TahadiGo***: A website showcasing the best places in Algeria, allowing contributions from users, and serving as a landing page for the TahadiGo mobile app. [Repository](https://github.com/assemzereg/tahadisite)
   + ***Cooplink***: A web platform that offers intelligent production chain recommendations to optimize product development. [Repository](https://github.com/assemzereg/cooplink-mc)
   + ***OYA Store***: A backend solution for a mobile app that assists store owners in managing inventory and meeting customer demands effectively. [Repository](https://github.com/assemzereg/storeBackend)
-  + ***Edugato English Test***: A frontend application built with ReactJS that assesses English proficiency levels for placement on the Edugato platform. [Link](test.edugato.net)
+  + ***Edugato English Test***: A frontend application built with ReactJS that assesses English proficiency levels for placement on the Edugato platform. <a href="https://www.instagram.com/assemzereg" target="blank">Link
   + ***Servy***: An e-commerce platform providing services to help e-commerce owners optimize their businesses. [Repository](https://github.com/assemzereg/Servy)
   + ***API***: A simple api build with flask that is build to get data analyse it with an ai model and then send the data back to the server get a result and send it the user. [Repository](https://github.com/assemzereg/flaskapi)
 
