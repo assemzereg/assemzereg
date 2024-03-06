@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZEREG Assem</h1>
 <h3 align="center">A passionate full-stack web developer from Algeria and a cyber security engineer</h3>
 
-- 🔭 I’m currently working on **Catalyst Website**
+- 🔭 I’m currently working on **AZ Trajet**
 
 - 👨‍💻 All of my projects are available at <a href="https://assemzereg.netlify.app" target="blank">assemzereg.netlify.app
 
