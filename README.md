@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZEREG Assem</h1>
-<h3 align="center">A passionate full-stack web developer from Algeria and a cyber security engineer</h3>
+<h3 align="center">A passionate full-stack web developer from Algeria</h3>
 
 - 🔭 I’m currently working on **MizaniyaPay**
 
